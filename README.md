@@ -36,3 +36,4 @@ What I do
 - ⚡️ build complex backend fast
 - 📨 ship PWAs, mobile app, browser extension, desktop and CLI apps using web technology
 - 🌟 make cool stuff n experiments [check my repos](https://github.com/bontaramsonta?tab=repositories)
+- ❤️ OSS
