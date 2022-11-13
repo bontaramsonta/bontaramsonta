@@ -1,22 +1,29 @@
 ### Hi there 👋
 
 <div align="left">
-  <a href="https://sketchfab.com/bontaramsonta">
+
+  <a target="_blank" href="https://dev.to/bontaramsonta">
     <img
-      src="https://img.shields.io/static/v1?label=Sketchfab&message=3D models&style=flat-square&color=1da1f2&logoColor=ffffff"
+      src="https://img.shields.io/static/v1?logo=sketchfab&style=flat-square&color=0072b1&label=Dev.to&message=3d stuff"
       alt="Sketchfab"
     />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/dev-souravdhar/">
     <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=skills"
       alt="LinkedIn"
     />
   </a>
   <a target="_blank" href="https://leetcode.com/souravdhar/">
     <img
-      src="https://img.shields.io/static/v1?label=Leetcode&message=Just started&style=flat-square&color=yellow"
+      src="https://img.shields.io/static/v1?label=Leetcode&message=problem solving&style=flat-square&color=yellow"
       alt="Leetcode"
+    />
+  </a>
+  <a target="_blank" href="https://dev.to/bontaramsonta">
+    <img
+      src="https://img.shields.io/static/v1?logo=devdotto&style=flat-square&color=black&label=Dev.to&message=blogs"
+      alt="Dev.to"
     />
   </a>
 
