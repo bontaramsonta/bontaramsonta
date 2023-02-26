@@ -33,7 +33,12 @@
 ## I'm sourav dhar (a.k.a @bontaramsonta)
 
 What I do
-- ⚡️ build complex backend fast
-- 📨 ship PWAs, mobile app, browser extension, desktop and CLI apps using web technology
-- 🌟 make cool stuff n experiments [check my repos](https://github.com/bontaramsonta?tab=repositories)
-- ❤️ OSS
+- 🖋️ design [UI]() and [3d stuff]()
+- ⚡️ build complex backend fast [check it out]()
+- 📨 deploy my [ideas]()
+- 🌟 test n experiment with new technologies [check it out](https://github.com/bontaramsonta?tab=repositories)
+- ❤️ contributing to OSS
+
+currently contributing to an awesome community of [exercism](https://exercism.org/profiles/bontaramsonta)
+
+There is so much to learn and create. It's an amazing feeling
